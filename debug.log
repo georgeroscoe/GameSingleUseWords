@@ -1,0 +1,4 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.phrasefinder.io:443
+DEBUG:urllib3.connectionpool:https://api.phrasefinder.io:443 "GET /search?corpus=eng-gb&query=work%20%3F HTTP/1.1" 200 14034
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.phrasefinder.io:443
+DEBUG:urllib3.connectionpool:https://api.phrasefinder.io:443 "GET /search?corpus=eng-gb&query=blindingly%20%3F HTTP/1.1" 200 3377
